@@ -1,0 +1,14 @@
+{
+  "name": "the-beerbank",
+  "version": "1.0.0",
+  "description": "The beer Bank project",
+  "main": "index.js",
+  "scripts": {
+    "start":"live-server"
+  },
+  "author": "Costache Daniel-Valentin",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
